@@ -24,5 +24,6 @@ The school board is trying to decide where to allocate their funds, so we analyz
   
   * For a charter, average math declined from 83.47 to 83.46, average reading went from 83.89 to 83.9, % passing math went from 93.6 to 90.3, % passing readind went     from 96.6 to 93.1, and % overall passing went from 90.4 to 87.2.
    
-
+## Summary
+After we omitted the scores from the ninth graders for academic dishonesty, the overall school percentage decreased significantly. The percent of math passed, reading passed, and overall passed decreased by 27%, 28%, and 25% respectively. Thomas High School also lost it's place as a top school within the district. 
 
